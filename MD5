@@ -1,0 +1,9 @@
+46cf1d0b3dcb60728df67fdb50fd0191 *DESCRIPTION
+e1e1565c26e0357ed269ad7ba4211d12 *NAMESPACE
+c4600f7d3721f0887cc1bb5ddc0ec458 *R/data.R
+03bbc366fd27b87167253761e63bc17d *R/node2vec-package.R
+d4f6e7779f74cb6e8bafcf7da424c20a *R/node2vecR.R
+4c9fb8e506026c01a19ed886a160bc9b *data/gene_edges.rda
+72540b38d29f7d259215c24830a1b22c *man/gene_edges.Rd
+11b1e3d39ff9c9b8a90ad58628231c2e *man/node2vec-package.Rd
+d188151e88a3c5f6cec5846b13cf3605 *man/node2vecR.Rd
